@@ -1,1 +1,1 @@
-Add-Type -AssemblyName System.Windows.Forms;[System.Windows.Forms.MessageBox]::Show('Test Works!');
+Add-Type -AssemblyName System.Windows.Forms;[System.Windows.Forms.MessageBox]::Show('Test Med Zoltan!');
